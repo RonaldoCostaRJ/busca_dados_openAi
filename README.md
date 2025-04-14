@@ -1,4 +1,4 @@
-# Enriquece Metadados de Veículos via API acesso à APIExterna da Viacep e API da OpenAI
+# Enriquece Metadados de Veículos via acesso à API da OpenAI
 # API Back End - Responsável pelo armazenamento , recuperação das informações de Veículos na base de dados SqlLignt
 # Data: 13/04/2025
 # Por: Ronaldo Ramos da Costa.
