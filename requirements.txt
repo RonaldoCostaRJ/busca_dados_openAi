@@ -1,0 +1,13 @@
+Flask
+Flask-Cors
+flask-openapi3
+Flask-SQLAlchemy
+nose2
+pydantic
+typing_extensions
+flask-restx
+openai
+flask-openapi3[swagger]
+
+
+
