@@ -1,8 +1,12 @@
-# Enriquece Metadados de Veículos via acesso à API da OpenAI
-# API Back End - Responsável pelo armazenamento , recuperação das informações de Veículos na base de dados SqlLignt
+# Enriquece Metadados de Veículos via API acesso à API Externa da OpenAI
+# API Back End - Responsável por sustentar o FRONT-END com buscas à API da OpenAi via 4 rotas GET, cruzando informações do Veículo com informações de outra API (Via Cep), enriquecendo a informação final ao usuário. 
 # Data: 13/04/2025
 # Por: Ronaldo Ramos da Costa.
 Este pequeno projeto faz parte da entrega do MVP da Disciplina **Arquitetura de Software** 
+
+
+## Arquitetura da Solução: 
+[![Sou uma imagem](Arquitetura_aplicacao.png)](/)
 
 
 ## Situação Problema
